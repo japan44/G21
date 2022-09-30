@@ -1,5 +1,6 @@
 # G21
-.45acp Glock frame
+.45acp Glock frame and rail insert
+
 Frame can be printed in pla+ or stronger filament
 Uses PrintYour2A G17 rails
 Front rail insert must be used
